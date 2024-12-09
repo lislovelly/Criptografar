@@ -1,30 +1,25 @@
 # Ransomware na Prática com Python
 
-Arquivo criptografar.py (para criptografar a mensagem):
+Arquivo encrypt.py (para criptografar a mensagem):
 
-![alt text](1.png)
+![alt text](10.png)
 
-Arquivo descriptografar.py (para descriptografar a mensagem):
+Arquivo decrypt.py  (para descriptografar a mensagem):
 
-![alt text](2.png)
+![alt text](11.png)
 
-Arquivo para gerar a chave:
+Mensagem de texto:
 
-![alt text](3.png)
+![alt text](12.png)
 
-Permissão de execução aos arquivos:
+Encryptando a mensagem:
 
-![alt text](4.png)
+![alt text](13.png)
 
-Gerando a chave:
+Arquivo descriptografado salvo como teste.txt:
 
-![alt text](5.png)
+![alt text](15.png)
 
-Criptografando a mensagem:
 
-![alt text](6.png)
 
-Descriptografando a mensagem:
-
-![alt text](7.png)
 
