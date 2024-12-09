@@ -48,8 +48,9 @@ encrypt_file(file_name, key) ```
 
 Arquivo decrypt.py  (para descriptografar a mensagem):
 
-Código: 
-``
+Código:
+
+``` Python
 import os
 import pyaes
 
@@ -85,7 +86,8 @@ key = b"testeransomwares"
 file_name = "teste.txt.ransomwaretroll"
 
 # Chamar a função para descriptografar o arquivo
-decrypt_file(file_name, key) ``
+decrypt_file(file_name, key) ```
+
 
 ![alt text](11.png)
 
