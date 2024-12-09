@@ -41,7 +41,8 @@ key = b"testeransomwares"
 file_name = "teste.txt"
 
 # Chamar a função para criptografar o arquivo
-encrypt_file(file_name, key) 
+encrypt_file(file_name, key)
+```
 
 
 ![alt text](10.png)
@@ -50,7 +51,7 @@ Arquivo decrypt.py  (para descriptografar a mensagem):
 
 Código:
 
-``` Python
+```python
 import os
 import pyaes
 
@@ -86,8 +87,8 @@ key = b"testeransomwares"
 file_name = "teste.txt.ransomwaretroll"
 
 # Chamar a função para descriptografar o arquivo
-decrypt_file(file_name, key) ```
-
+decrypt_file(file_name, key)
+```
 
 ![alt text](11.png)
 
